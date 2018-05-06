@@ -1,0 +1,35 @@
+header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+nav {
+  display: flex;
+}
+nav li {
+  display: flex;
+  display: inline-block;
+}
+h3 {
+  color: MediumAquamarine;
+}
+main {
+  display: flex;
+  border: 1px solid black;
+  }
+.column.large {
+  width: 630px;
+}
+.column.medium {
+  width: 300px;
+}
+.column.small {
+  width: 240px;
+}
+.tuna {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+}
+.border {
+  border: 1px solid black;
+}
